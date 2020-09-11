@@ -1,0 +1,9639 @@
+support.google.com:
+  source: Google
+  medium: unknown
+  query: []
+developers.google.com:
+  source: Google
+  medium: unknown
+  query: []
+maps.google.com:
+  source: Google
+  medium: unknown
+  query: []
+accounts.google.com:
+  source: Google
+  medium: unknown
+  query: []
+drive.google.com:
+  source: Google
+  medium: unknown
+  query: []
+sites.google.com:
+  source: Google
+  medium: unknown
+  query: []
+groups.google.com:
+  source: Google
+  medium: unknown
+  query: []
+groups.google.co.uk:
+  source: Google
+  medium: unknown
+  query: []
+finance.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+news.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+eurosport.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+sports.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+astrology.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+travel.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+answers.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+screen.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+weather.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+messenger.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+games.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+shopping.yahoo.net:
+  source: Yahoo!
+  medium: unknown
+  query: []
+movies.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+cars.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+lifestyle.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+omg.yahoo.com:
+  source: Yahoo!
+  medium: unknown
+  query: []
+match.yahoo.net:
+  source: Yahoo!
+  medium: unknown
+  query: []
+maps.yandex.ru:
+  source: Yandex Maps
+  medium: unknown
+  query: &ref_0
+    - text
+maps.yandex.ua:
+  source: Yandex Maps
+  medium: unknown
+  query: *ref_0
+maps.yandex.com:
+  source: Yandex Maps
+  medium: unknown
+  query: *ref_0
+maps.yandex.by:
+  source: Yandex Maps
+  medium: unknown
+  query: *ref_0
+n.maps.yandex.ru:
+  source: Yandex Maps
+  medium: unknown
+  query: *ref_0
+mail.126.com:
+  source: 126 Mail
+  medium: email
+  query: []
+mail.163.com:
+  source: 163 Mail
+  medium: email
+  query: []
+webmail.2degreesbroadband.co.nz:
+  source: 2degrees
+  medium: email
+  query: []
+webmail.adam.com.au:
+  source: Adam Internet
+  medium: email
+  query: []
+mail.aol.com:
+  source: AOL Mail
+  medium: email
+  query: []
+post.ru:
+  source: Beeline
+  medium: email
+  query: []
+webmail.bigpond.com:
+  source: Bigpond
+  medium: email
+  query: []
+webmail2.bigpond.com:
+  source: Bigpond
+  medium: email
+  query: []
+email.telstra.com:
+  source: Bigpond
+  medium: email
+  query: []
+basic.messaging.bigpond.com:
+  source: Bigpond
+  medium: email
+  query: []
+webmail.commander.net.au:
+  source: Commander
+  medium: email
+  query: []
+mail2.daum.net:
+  source: Daum Mail
+  medium: email
+  query: []
+mail.daum.net:
+  source: Daum Mail
+  medium: email
+  query: []
+webmail.dodo.com.au:
+  source: Dodo
+  medium: email
+  query: []
+mail.e1.ru:
+  source: E1.ru
+  medium: email
+  query: []
+webmail.freenet.de:
+  source: Freenet
+  medium: email
+  query: []
+mail.google.com:
+  source: Gmail
+  medium: email
+  query: []
+inbox.google.com:
+  source: Gmail
+  medium: email
+  query: []
+webmail.iinet.net.au:
+  source: iiNet
+  medium: email
+  query: []
+mail.iinet.net.au:
+  source: iiNet
+  medium: email
+  query: []
+inbox.com:
+  source: Inbox.com
+  medium: email
+  query: []
+webmail.iprimus.com.au:
+  source: iPrimus
+  medium: email
+  query: []
+e.mail.ru:
+  source: Mail.ru
+  medium: email
+  query: []
+touch.mail.ru:
+  source: Mail.ru
+  medium: email
+  query: []
+mastermail.ru:
+  source: Mastermail
+  medium: email
+  query: []
+m.mastermail.ru:
+  source: Mastermail
+  medium: email
+  query: []
+mail.mynet.com:
+  source: Mynet Mail
+  medium: email
+  query: []
+mail.naver.com:
+  source: Naver Mail
+  medium: email
+  query: []
+webmail.netspace.net.au:
+  source: Netspace
+  medium: email
+  query: []
+webmail.optuszoo.com.au:
+  source: Optus Zoo
+  medium: email
+  query: []
+webmail.optusnet.com.au:
+  source: Optus Zoo
+  medium: email
+  query: []
+orange.fr/webmail:
+  source: Orange Webmail
+  medium: email
+  query: []
+mail.live.com:
+  source: Outlook.com
+  medium: email
+  query: []
+outlook.live.com:
+  source: Outlook.com
+  medium: email
+  query: []
+mail.qip.ru:
+  source: QIP
+  medium: email
+  query: []
+mail.qq.com:
+  source: QQ Mail
+  medium: email
+  query: []
+exmail.qq.com:
+  source: QQ Mail
+  medium: email
+  query: []
+mail.rambler.ru:
+  source: Rambler
+  medium: email
+  query: []
+email.seznam.cz:
+  source: Seznam Mail
+  medium: email
+  query: []
+sibmail.com:
+  source: Sibmail
+  medium: email
+  query: []
+mail.ukr.net:
+  source: Ukr.net
+  medium: email
+  query: []
+webmail.virginbroadband.com.au:
+  source: Virgin
+  medium: email
+  query: []
+webmail.vodafone.co.nz:
+  source: Vodafone
+  medium: email
+  query: []
+webmail.westnet.com.au:
+  source: Westnet
+  medium: email
+  query: []
+mail.yandex.ru:
+  source: Yandex
+  medium: email
+  query: []
+mail.yandex.com:
+  source: Yandex
+  medium: email
+  query: []
+mail.yandex.kz:
+  source: Yandex
+  medium: email
+  query: []
+mail.yandex.ua:
+  source: Yandex
+  medium: email
+  query: []
+mail.yandex.by:
+  source: Yandex
+  medium: email
+  query: []
+mail.yahoo.net:
+  source: Yahoo! Mail
+  medium: email
+  query: []
+mail.yahoo.com:
+  source: Yahoo! Mail
+  medium: email
+  query: []
+mail.yahoo.co.uk:
+  source: Yahoo! Mail
+  medium: email
+  query: []
+mail.yahoo.co.jp:
+  source: Yahoo! Mail
+  medium: email
+  query: []
+mail.zoho.com:
+  source: Zoho
+  medium: email
+  query: []
+facebook.com:
+  source: Facebook
+  medium: social
+  query: []
+fb.me:
+  source: Facebook
+  medium: social
+  query: []
+m.facebook.com:
+  source: Facebook
+  medium: social
+  query: []
+l.facebook.com:
+  source: Facebook
+  medium: social
+  query: []
+lm.facebook.com:
+  source: Facebook
+  medium: social
+  query: []
+qzone.qq.com:
+  source: Qzone
+  medium: social
+  query: []
+habbo.com:
+  source: Habbo
+  medium: social
+  query: []
+twitter.com:
+  source: Twitter
+  medium: social
+  query: []
+t.co:
+  source: Twitter
+  medium: social
+  query: []
+instagram.com:
+  source: Instagram
+  medium: social
+  query: []
+l.instagram.com:
+  source: Instagram
+  medium: social
+  query: []
+youtube.com:
+  source: Youtube
+  medium: social
+  query: []
+youtu.be:
+  source: Youtube
+  medium: social
+  query: []
+vimeo.com:
+  source: Vimeo
+  medium: social
+  query: []
+renren.com:
+  source: Renren
+  medium: social
+  query: []
+login.live.com:
+  source: Windows Live Spaces
+  medium: social
+  query: []
+linkedin.com:
+  source: LinkedIn
+  medium: social
+  query: []
+lnkd.in:
+  source: LinkedIn
+  medium: social
+  query: []
+bebo.com:
+  source: Bebo
+  medium: social
+  query: []
+m.vk.com:
+  source: Vkontakte
+  medium: social
+  query: []
+vk.com:
+  source: Vkontakte
+  medium: social
+  query: []
+away.vk.com:
+  source: Vkontakte
+  medium: social
+  query: []
+vkontakte.ru:
+  source: Vkontakte
+  medium: social
+  query: []
+login.tagged.com:
+  source: Tagged
+  medium: social
+  query: []
+orkut.com:
+  source: Orkut
+  medium: social
+  query: []
+myspace.com:
+  source: Myspace
+  medium: social
+  query: []
+friendster.com:
+  source: Friendster
+  medium: social
+  query: []
+badoo.com:
+  source: Badoo
+  medium: social
+  query: []
+hi5.com:
+  source: hi5
+  medium: social
+  query: []
+netlog.com:
+  source: Netlog
+  medium: social
+  query: []
+flixster.com:
+  source: Flixster
+  medium: social
+  query: []
+mylife.ru:
+  source: MyLife
+  medium: social
+  query: []
+paper.li:
+  source: Paper.li
+  medium: social
+  query: []
+classmates.com:
+  source: Classmates
+  medium: social
+  query: []
+github.com:
+  source: GitHub
+  medium: social
+  query: []
+url.google.com:
+  source: Google+
+  medium: social
+  query: []
+plus.google.com:
+  source: Google+
+  medium: social
+  query: []
+douban.com:
+  source: Douban
+  medium: social
+  query: []
+odnoklassniki.ru:
+  source: Odnoklassniki
+  medium: social
+  query: []
+ok.ru:
+  source: Odnoklassniki
+  medium: social
+  query: []
+viadeo.com:
+  source: Viadeo
+  medium: social
+  query: []
+flickr.com:
+  source: Flickr
+  medium: social
+  query: []
+weeworld.com:
+  source: WeeWorld
+  medium: social
+  query: []
+lastfm.ru:
+  source: Last.fm
+  medium: social
+  query: []
+myheritage.com:
+  source: MyHeritage
+  medium: social
+  query: []
+xanga.com:
+  source: Xanga
+  medium: social
+  query: []
+mixi.jp:
+  source: Mixi
+  medium: social
+  query: []
+global.cyworld.com:
+  source: Cyworld
+  medium: social
+  query: []
+gaiaonline.com:
+  source: Gaia Online
+  medium: social
+  query: []
+skyrock.com:
+  source: Skyrock
+  medium: social
+  query: []
+blackplanet.com:
+  source: BlackPlanet
+  medium: social
+  query: []
+myyearbook.com:
+  source: myYearbook
+  medium: social
+  query: []
+fotolog.com:
+  source: Fotolog
+  medium: social
+  query: []
+friendsreunited.com:
+  source: Friends Reunited
+  medium: social
+  query: []
+livejournal.ru:
+  source: LiveJournal
+  medium: social
+  query: []
+studivz.net:
+  source: StudiVZ
+  medium: social
+  query: []
+stackoverflow.com:
+  source: StackOverflow
+  medium: social
+  query: []
+sonico.com:
+  source: Sonico.com
+  medium: social
+  query: []
+pinterest.com:
+  source: Pinterest
+  medium: social
+  query: []
+plaxo.com:
+  source: Plaxo
+  medium: social
+  query: []
+geni.com:
+  source: Geni
+  medium: social
+  query: []
+tuenti.com:
+  source: Tuenti
+  medium: social
+  query: []
+xing.com:
+  source: XING
+  medium: social
+  query: []
+taringa.net:
+  source: Taringa!
+  medium: social
+  query: []
+tumblr.com:
+  source: Tumblr
+  medium: social
+  query: []
+t.umblr.com:
+  source: Tumblr
+  medium: social
+  query: []
+nk.pl:
+  source: Nasza-klasa.pl
+  medium: social
+  query: []
+stumbleupon.com:
+  source: StumbleUpon
+  medium: social
+  query: []
+sourceforge.net:
+  source: SourceForge
+  medium: social
+  query: []
+hyves.nl:
+  source: Hyves
+  medium: social
+  query: []
+wayn.com:
+  source: WAYN
+  medium: social
+  query: []
+buzznet.com:
+  source: Buzznet
+  medium: social
+  query: []
+multiply.com:
+  source: Multiply
+  medium: social
+  query: []
+foursquare.com:
+  source: Foursquare
+  medium: social
+  query: []
+vkrugudruzei.ru:
+  source: vKruguDruzei.ru
+  medium: social
+  query: []
+my.mail.ru:
+  source: Mail.ru
+  medium: social
+  query: []
+moikrug.ru:
+  source: MoiKrug.ru
+  medium: social
+  query: []
+reddit.com:
+  source: Reddit
+  medium: social
+  query: []
+news.ycombinator.com:
+  source: Hacker News
+  medium: social
+  query: []
+identi.ca:
+  source: Identi.ca
+  medium: social
+  query: []
+weibo.com:
+  source: Weibo
+  medium: social
+  query: []
+t.cn:
+  source: Weibo
+  medium: social
+  query: []
+delicious.com:
+  source: Delicious
+  medium: social
+  query: []
+getpocket.com:
+  source: Pocket
+  medium: social
+  query: []
+itusozluk.com:
+  source: ITU Sozluk
+  medium: social
+  query: []
+instela.com:
+  source: Instela
+  medium: social
+  query: []
+Sozluk.com:
+  source: Eksi Sozluk
+  medium: social
+  query: []
+sourtimes.org:
+  source: Eksi Sozluk
+  medium: social
+  query: []
+uludagsozluk.com:
+  source: Uludag Sozluk
+  medium: social
+  query: []
+ulusozluk.com:
+  source: Uludag Sozluk
+  medium: social
+  query: []
+inci.sozlukspot.com:
+  source: Inci Sozluk
+  medium: social
+  query: []
+incisozluk.com:
+  source: Inci Sozluk
+  medium: social
+  query: []
+incisozluk.cc:
+  source: Inci Sozluk
+  medium: social
+  query: []
+hocam.com:
+  source: Hocam.com
+  medium: social
+  query: []
+donanimhaber.com:
+  source: Donanimhaber
+  medium: social
+  query: []
+redirect.disqus.com:
+  source: Disqus
+  medium: social
+  query: []
+disq.us:
+  source: Disqus
+  medium: social
+  query: []
+disqus.com:
+  source: Disqus
+  medium: social
+  query: []
+quora.com:
+  source: Quora
+  medium: social
+  query: []
+web.skype.com:
+  source: Skype
+  medium: social
+  query: []
+web.whatsapp.com:
+  source: WhatsApp
+  medium: social
+  query: []
+forums.whirlpool.net.au:
+  source: Whirlpool
+  medium: social
+  query: []
+1.cz:
+  source: 1.cz
+  medium: search
+  query:
+    - q
+search.1and1.com:
+  source: 1&1
+  medium: search
+  query:
+    - q
+search.1und1.de:
+  source: 1und1
+  medium: search
+  query:
+    - su
+2gis.ru:
+  source: 2gis
+  medium: search
+  query: []
+www.2gis.ru:
+  source: 2gis
+  medium: search
+  query: []
+link.2gis.ru:
+  source: 2gis
+  medium: search
+  query: []
+www.link.2gis.ru:
+  source: 2gis
+  medium: search
+  query: []
+so.360.cn:
+  source: 360.cn
+  medium: search
+  query: &ref_1
+    - q
+www.so.com:
+  source: 360.cn
+  medium: search
+  query: *ref_1
+www.abacho.de:
+  source: Abacho
+  medium: search
+  query: &ref_2
+    - q
+www.abacho.com:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.co.uk:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.se.abacho.com:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.tr.abacho.com:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.at:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.fr:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.es:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.ch:
+  source: Abacho
+  medium: search
+  query: *ref_2
+www.abacho.it:
+  source: Abacho
+  medium: search
+  query: *ref_2
+abcsolk.no:
+  source: ABCsøk
+  medium: search
+  query: &ref_3
+    - q
+verden.abcsok.no:
+  source: ABCsøk
+  medium: search
+  query: *ref_3
+www.acoon.de:
+  source: Acoon
+  medium: search
+  query:
+    - begriff
+alexa.com:
+  source: Alexa
+  medium: search
+  query: &ref_4
+    - q
+search.toolbars.alexa.com:
+  source: Alexa
+  medium: search
+  query: *ref_4
+rechercher.aliceadsl.fr:
+  source: Alice Adsl
+  medium: search
+  query:
+    - q
+www.alltheweb.com:
+  source: AllTheWeb
+  medium: search
+  query:
+    - q
+all.by:
+  source: all.by
+  medium: search
+  query:
+    - query
+www.altavista.com:
+  source: Altavista
+  medium: search
+  query: &ref_5
+    - q
+search.altavista.com:
+  source: Altavista
+  medium: search
+  query: *ref_5
+listings.altavista.com:
+  source: Altavista
+  medium: search
+  query: *ref_5
+altavista.de:
+  source: Altavista
+  medium: search
+  query: *ref_5
+altavista.fr:
+  source: Altavista
+  medium: search
+  query: *ref_5
+be-nl.altavista.com:
+  source: Altavista
+  medium: search
+  query: *ref_5
+be-fr.altavista.com:
+  source: Altavista
+  medium: search
+  query: *ref_5
+amazon.com:
+  source: Amazon
+  medium: search
+  query: &ref_6
+    - keywords
+www.amazon.com:
+  source: Amazon
+  medium: search
+  query: *ref_6
+search.aol.com:
+  source: AOL
+  medium: search
+  query: &ref_7
+    - q
+    - query
+search.aol.it:
+  source: AOL
+  medium: search
+  query: *ref_7
+aolsearch.aol.com:
+  source: AOL
+  medium: search
+  query: *ref_7
+aolsearch.com:
+  source: AOL
+  medium: search
+  query: *ref_7
+www.aolrecherche.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+www.aolrecherches.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+www.aolimages.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+aim.search.aol.com:
+  source: AOL
+  medium: search
+  query: *ref_7
+www.recherche.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+recherche.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+find.web.aol.com:
+  source: AOL
+  medium: search
+  query: *ref_7
+recherche.aol.ca:
+  source: AOL
+  medium: search
+  query: *ref_7
+aolsearch.aol.co.uk:
+  source: AOL
+  medium: search
+  query: *ref_7
+search.aol.co.uk:
+  source: AOL
+  medium: search
+  query: *ref_7
+aolrecherche.aol.fr:
+  source: AOL
+  medium: search
+  query: *ref_7
+sucheaol.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+suche.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+suche.aolsvc.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+aolbusqueda.aol.com.mx:
+  source: AOL
+  medium: search
+  query: *ref_7
+alicesuche.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+alicesuchet.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+suchet2.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+search.hp.my.aol.com.au:
+  source: AOL
+  medium: search
+  query: *ref_7
+search.hp.my.aol.de:
+  source: AOL
+  medium: search
+  query: *ref_7
+search.hp.my.aol.it:
+  source: AOL
+  medium: search
+  query: *ref_7
+search-intl.netscape.com:
+  source: AOL
+  medium: search
+  query: *ref_7
+apollo.lv/portal/search/:
+  source: Apollo Latvia
+  medium: search
+  query:
+    - q
+apollo7.de:
+  source: APOLL07
+  medium: search
+  query:
+    - query
+apontador.com.br:
+  source: Apontador
+  medium: search
+  query: &ref_8
+    - q
+www.apontador.com.br:
+  source: Apontador
+  medium: search
+  query: *ref_8
+sm.aport.ru:
+  source: Aport
+  medium: search
+  query:
+    - r
+arama.com:
+  source: arama
+  medium: search
+  query:
+    - q
+www.arcor.de:
+  source: Arcor
+  medium: search
+  query:
+    - Keywords
+arianna.libero.it:
+  source: Arianna
+  medium: search
+  query: &ref_9
+    - query
+www.arianna.com:
+  source: Arianna
+  medium: search
+  query: *ref_9
+ask.com:
+  source: Ask
+  medium: search
+  query: &ref_10
+    - q
+www.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+web.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+int.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+mws.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+uk.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+images.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+ask.reference.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+www.askkids.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+iwon.ask.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+www.ask.co.uk:
+  source: Ask
+  medium: search
+  query: *ref_10
+www.qbyrd.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+search-results.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+uk.search-results.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+www.search-results.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+int.search-results.com:
+  source: Ask
+  medium: search
+  query: *ref_10
+search.tb.ask.com:
+  source: Ask Toolbar
+  medium: search
+  query:
+    - searchfor
+searchatlas.centrum.cz:
+  source: Atlas
+  medium: search
+  query:
+    - q
+www2.austronaut.at:
+  source: Austronaut
+  medium: search
+  query: &ref_11
+    - q
+www1.astronaut.at:
+  source: Austronaut
+  medium: search
+  query: *ref_11
+search.babylon.com:
+  source: Babylon
+  medium: search
+  query: &ref_12
+    - q
+searchassist.babylon.com:
+  source: Babylon
+  medium: search
+  query: *ref_12
+www.baidu.com:
+  source: Baidu
+  medium: search
+  query: &ref_13
+    - wd
+    - word
+    - kw
+    - k
+www1.baidu.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+zhidao.baidu.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+tieba.baidu.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+news.baidu.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+web.gougou.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+m.baidu.com:
+  source: Baidu
+  medium: search
+  query: *ref_13
+cgi.search.biglobe.ne.jp:
+  source: Biglobe
+  medium: search
+  query:
+    - q
+bing.com:
+  source: Bing
+  medium: search
+  query: &ref_14
+    - q
+    - Q
+www.bing.com:
+  source: Bing
+  medium: search
+  query: *ref_14
+msnbc.msn.com:
+  source: Bing
+  medium: search
+  query: *ref_14
+dizionario.it.msn.com:
+  source: Bing
+  medium: search
+  query: *ref_14
+cc.bingj.com:
+  source: Bing
+  medium: search
+  query: *ref_14
+m.bing.com:
+  source: Bing
+  medium: search
+  query: *ref_14
+bing.com/images/search:
+  source: Bing Images
+  medium: search
+  query: &ref_15
+    - q
+    - Q
+www.bing.com/images/search:
+  source: Bing Images
+  medium: search
+  query: *ref_15
+blekko.com:
+  source: blekko
+  medium: search
+  query:
+    - q
+www.blogdigger.com:
+  source: Blogdigger
+  medium: search
+  query:
+    - q
+www.blogpulse.com:
+  source: Blogpulse
+  medium: search
+  query:
+    - query
+search.bluewin.ch:
+  source: Bluewin
+  medium: search
+  query:
+    - searchTerm
+search.bt.com:
+  source: British Telecommunications
+  medium: search
+  query:
+    - p
+web.canoe.ca:
+  source: canoe.ca
+  medium: search
+  query:
+    - q
+serach.centrum.cz:
+  source: Centrum
+  medium: search
+  query: &ref_16
+    - q
+morfeo.centrum.cz:
+  source: Centrum
+  medium: search
+  query: *ref_16
+search.certified-toolbar.com:
+  source: Certified-Toolbar
+  medium: search
+  query:
+    - q
+www.charter.net:
+  source: Charter
+  medium: search
+  query:
+    - q
+pesquisa.clix.pt:
+  source: Clix
+  medium: search
+  query:
+    - question
+search.conduit.com:
+  source: Conduit
+  medium: search
+  query:
+    - q
+serach.comcast.net:
+  source: Comcast
+  medium: search
+  query:
+    - q
+www.crawler.com:
+  source: Crawler
+  medium: search
+  query:
+    - q
+websearch.cs.com:
+  source: Compuserve
+  medium: search
+  query:
+    - query
+www.cuil.com:
+  source: Cuil
+  medium: search
+  query:
+    - q
+daemon-search.com:
+  source: Daemon search
+  medium: search
+  query: &ref_17
+    - q
+my.daemon-search.com:
+  source: Daemon search
+  medium: search
+  query: *ref_17
+www.dalesearch.com:
+  source: Dalesearch
+  medium: search
+  query:
+    - q
+www.dasoertliche.de:
+  source: DasOertliche
+  medium: search
+  query:
+    - kw
+www1.dastelefonbuch.de:
+  source: DasTelefonbuch
+  medium: search
+  query:
+    - kw
+search.daum.net:
+  source: Daum
+  medium: search
+  query:
+    - q
+smart.delfi.lv:
+  source: Delfi latvia
+  medium: search
+  query:
+    - q
+otsing.delfi.ee:
+  source: Delfi
+  medium: search
+  query:
+    - q
+digg.com:
+  source: Digg
+  medium: search
+  query:
+    - s
+dmoz.org:
+  source: dmoz
+  medium: search
+  query: &ref_18
+    - q
+editors.dmoz.org:
+  source: dmoz
+  medium: search
+  query: *ref_18
+google.dodo.com.au:
+  source: Dodo
+  medium: search
+  query:
+    - q
+duckduckgo.com:
+  source: DuckDuckGo
+  medium: search
+  query:
+    - q
+search.earthlink.net:
+  source: earthlink
+  medium: search
+  query:
+    - q
+ecosia.org:
+  source: Ecosia
+  medium: search
+  query:
+    - q
+www.eniro.se:
+  source: Eniro
+  medium: search
+  query:
+    - q
+    - search_word
+www.eurip.com:
+  source: Eurip
+  medium: search
+  query:
+    - q
+www.euroseek.com:
+  source: Euroseek
+  medium: search
+  query:
+    - string
+www.everyclick.com:
+  source: Everyclick
+  medium: search
+  query:
+    - keyword
+search.excite.it:
+  source: Excite
+  medium: search
+  query: &ref_19
+    - q
+    - search
+search.excite.fr:
+  source: Excite
+  medium: search
+  query: *ref_19
+search.excite.de:
+  source: Excite
+  medium: search
+  query: *ref_19
+search.excite.co.uk:
+  source: Excite
+  medium: search
+  query: *ref_19
+serach.excite.es:
+  source: Excite
+  medium: search
+  query: *ref_19
+search.excite.nl:
+  source: Excite
+  medium: search
+  query: *ref_19
+msxml.excite.com:
+  source: Excite
+  medium: search
+  query: *ref_19
+www.excite.co.jp:
+  source: Excite
+  medium: search
+  query: *ref_19
+www.exalead.fr:
+  source: Exalead
+  medium: search
+  query: &ref_20
+    - q
+www.exalead.com:
+  source: Exalead
+  medium: search
+  query: *ref_20
+eo.st:
+  source: eo
+  medium: search
+  query:
+    - x_query
+www.fastbrowsersearch.com:
+  source: Fast Browser Search
+  medium: search
+  query:
+    - q
+recherche.francite.com:
+  source: Francite
+  medium: search
+  query:
+    - name
+www.finderoo.com:
+  source: Finderoo
+  medium: search
+  query:
+    - q
+search.findwide.com:
+  source: Findwide
+  medium: search
+  query:
+    - k
+www.fireball.de:
+  source: Fireball
+  medium: search
+  query:
+    - q
+www.firstsfind.com:
+  source: Firstfind
+  medium: search
+  query:
+    - qry
+www.fixsuche.de:
+  source: Fixsuche
+  medium: search
+  query:
+    - q
+www.flix.de:
+  source: Flix
+  medium: search
+  query:
+    - keyword
+forestle.org:
+  source: Forestle
+  medium: search
+  query: &ref_21
+    - q
+www.forestle.org:
+  source: Forestle
+  medium: search
+  query: *ref_21
+forestle.mobi:
+  source: Forestle
+  medium: search
+  query: *ref_21
+search.free.fr:
+  source: Free
+  medium: search
+  query: &ref_22
+    - q
+search1-2.free.fr:
+  source: Free
+  medium: search
+  query: *ref_22
+search1-1.free.fr:
+  source: Free
+  medium: search
+  query: *ref_22
+search.freecause.com:
+  source: Freecause
+  medium: search
+  query:
+    - p
+suche.freenet.de:
+  source: Freenet
+  medium: search
+  query:
+    - query
+    - Keywords
+www.fresh-weather.com:
+  source: Freshweather
+  medium: search
+  query:
+    - q
+friendfeed.com:
+  source: FriendFeed
+  medium: search
+  query:
+    - q
+gais.cs.ccu.edu.tw:
+  source: GAIS
+  medium: search
+  query:
+    - q
+geona.net:
+  source: Geona
+  medium: search
+  query:
+    - q
+search.genieo.com:
+  source: Genieo
+  medium: search
+  query:
+    - q
+www.gigablast.com:
+  source: Gigablast
+  medium: search
+  query: &ref_23
+    - q
+dir.gigablast.com:
+  source: Gigablast
+  medium: search
+  query: *ref_23
+searches.globososo.com:
+  source: Globososo
+  medium: search
+  query: &ref_24
+    - q
+search.globososo.com:
+  source: Globososo
+  medium: search
+  query: *ref_24
+suche.gmx.net:
+  source: GMX
+  medium: search
+  query:
+    - su
+www.gnadenmeer.de:
+  source: Gnadenmeer
+  medium: search
+  query:
+    - keyword
+www.gomeo.com:
+  source: Gomeo
+  medium: search
+  query:
+    - Keywords
+search.goo.ne.jp:
+  source: goo
+  medium: search
+  query: &ref_25
+    - MT
+ocnsearch.goo.ne.jp:
+  source: goo
+  medium: search
+  query: *ref_25
+www.google.com:
+  source: Google
+  medium: search
+  query: &ref_26
+    - q
+    - query
+    - Keywords
+www.google.ac:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ad:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.af:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ag:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ai:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.am:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.it.ao:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ar:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.as:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.at:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.au:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.az:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ba:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.bd:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.be:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.bf:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.bg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.bh:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.bi:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.bj:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.bn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.bo:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.br:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.bs:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.bw:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.by:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.by:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.bz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ca:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.kh:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cc:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cd:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cf:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cat:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ch:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ci:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ck:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.co:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.cr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.cu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cv:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.cy:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.cz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.de:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.dj:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.dk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.dm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.do:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.dz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ec:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ee:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.eg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.es:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.et:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.fi:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.fj:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.fm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.fr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ga:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gd:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ge:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gf:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.gh:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.gi:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gp:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.gt:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.gy:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.hk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.hn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.hr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ht:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.hu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.id:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.iq:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ie:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.il:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.im:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.in:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.io:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.is:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.it:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.je:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.jm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.jo:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.jp:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ke:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ki:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.kg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.kr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.kw:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.kz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.la:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.lb:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.lc:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.li:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.lk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ls:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.lt:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.lu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.lv:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ly:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ma:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.md:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.me:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ml:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ms:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.mt:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mv:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.mw:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.mx:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.my:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.mz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.na:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ne:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.nf:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ng:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ni:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.nl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.no:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.np:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.nr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.nu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.nz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.om:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.pa:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.pe:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ph:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.pk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.pl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.pn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.pr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ps:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.pt:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.py:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.qa:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ro:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.rs:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ru:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.rw:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.sa:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.sb:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.sc:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.se:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.sg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.sh:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.si:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.sk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.sl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.sn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.sm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.so:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.st:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.sv:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.td:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.th:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.tj:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tl:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.to:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.tn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.tr:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.tt:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.tw:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.tz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.ua:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ug:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ae:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.uk:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.us:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.uy:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.uz:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.vc:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.ve:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.vg:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.vi:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.com.vn:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.vu:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.ws:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.za:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.zm:
+  source: Google
+  medium: search
+  query: *ref_26
+www.google.co.zw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ac:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ad:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.af:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ag:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ai:
+  source: Google
+  medium: search
+  query: *ref_26
+google.am:
+  source: Google
+  medium: search
+  query: *ref_26
+google.it.ao:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ar:
+  source: Google
+  medium: search
+  query: *ref_26
+google.as:
+  source: Google
+  medium: search
+  query: *ref_26
+google.at:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.au:
+  source: Google
+  medium: search
+  query: *ref_26
+google.az:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ba:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.bd:
+  source: Google
+  medium: search
+  query: *ref_26
+google.be:
+  source: Google
+  medium: search
+  query: *ref_26
+google.bf:
+  source: Google
+  medium: search
+  query: *ref_26
+google.bg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.bh:
+  source: Google
+  medium: search
+  query: *ref_26
+google.bi:
+  source: Google
+  medium: search
+  query: *ref_26
+google.bj:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.bn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.bo:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.br:
+  source: Google
+  medium: search
+  query: *ref_26
+google.bs:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.bw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.by:
+  source: Google
+  medium: search
+  query: *ref_26
+google.by:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.bz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ca:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.kh:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cc:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cd:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cf:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cat:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ch:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ci:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ck:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.co:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.cr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.cu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cv:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.cy:
+  source: Google
+  medium: search
+  query: *ref_26
+google.cz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.de:
+  source: Google
+  medium: search
+  query: *ref_26
+google.dj:
+  source: Google
+  medium: search
+  query: *ref_26
+google.dk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.dm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.do:
+  source: Google
+  medium: search
+  query: *ref_26
+google.dz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ec:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ee:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.eg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.es:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.et:
+  source: Google
+  medium: search
+  query: *ref_26
+google.fi:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.fj:
+  source: Google
+  medium: search
+  query: *ref_26
+google.fm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.fr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ga:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gd:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ge:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gf:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.gh:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.gi:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gp:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.gt:
+  source: Google
+  medium: search
+  query: *ref_26
+google.gy:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.hk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.hn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.hr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ht:
+  source: Google
+  medium: search
+  query: *ref_26
+google.hu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.id:
+  source: Google
+  medium: search
+  query: *ref_26
+google.iq:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ie:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.il:
+  source: Google
+  medium: search
+  query: *ref_26
+google.im:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.in:
+  source: Google
+  medium: search
+  query: *ref_26
+google.io:
+  source: Google
+  medium: search
+  query: *ref_26
+google.is:
+  source: Google
+  medium: search
+  query: *ref_26
+google.it:
+  source: Google
+  medium: search
+  query: *ref_26
+google.je:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.jm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.jo:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.jp:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ke:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ki:
+  source: Google
+  medium: search
+  query: *ref_26
+google.kg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.kr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.kw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.kz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.la:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.lb:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.lc:
+  source: Google
+  medium: search
+  query: *ref_26
+google.li:
+  source: Google
+  medium: search
+  query: *ref_26
+google.lk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ls:
+  source: Google
+  medium: search
+  query: *ref_26
+google.lt:
+  source: Google
+  medium: search
+  query: *ref_26
+google.lu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.lv:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ly:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ma:
+  source: Google
+  medium: search
+  query: *ref_26
+google.md:
+  source: Google
+  medium: search
+  query: *ref_26
+google.me:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ml:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ms:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.mt:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mv:
+  source: Google
+  medium: search
+  query: *ref_26
+google.mw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.mx:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.my:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.mz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.na:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ne:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.nf:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ng:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ni:
+  source: Google
+  medium: search
+  query: *ref_26
+google.nl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.no:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.np:
+  source: Google
+  medium: search
+  query: *ref_26
+google.nr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.nu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.nz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.om:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.pa:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.pe:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ph:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.pk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.pl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.pn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.pr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ps:
+  source: Google
+  medium: search
+  query: *ref_26
+google.pt:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.py:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.qa:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ro:
+  source: Google
+  medium: search
+  query: *ref_26
+google.rs:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ru:
+  source: Google
+  medium: search
+  query: *ref_26
+google.rw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.sa:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.sb:
+  source: Google
+  medium: search
+  query: *ref_26
+google.sc:
+  source: Google
+  medium: search
+  query: *ref_26
+google.se:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.sg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.sh:
+  source: Google
+  medium: search
+  query: *ref_26
+google.si:
+  source: Google
+  medium: search
+  query: *ref_26
+google.sk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.sl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.sn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.sm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.so:
+  source: Google
+  medium: search
+  query: *ref_26
+google.st:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.sv:
+  source: Google
+  medium: search
+  query: *ref_26
+google.td:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.th:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.tj:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tl:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.to:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.tn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.tr:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tt:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.tw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.tz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.ua:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ug:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ae:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.uk:
+  source: Google
+  medium: search
+  query: *ref_26
+google.us:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.uy:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.uz:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.vc:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.ve:
+  source: Google
+  medium: search
+  query: *ref_26
+google.vg:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.vi:
+  source: Google
+  medium: search
+  query: *ref_26
+google.com.vn:
+  source: Google
+  medium: search
+  query: *ref_26
+google.vu:
+  source: Google
+  medium: search
+  query: *ref_26
+google.ws:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.za:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.zm:
+  source: Google
+  medium: search
+  query: *ref_26
+google.co.zw:
+  source: Google
+  medium: search
+  query: *ref_26
+google.tn:
+  source: Google
+  medium: search
+  query: *ref_26
+search.avg.com:
+  source: Google
+  medium: search
+  query: *ref_26
+isearch.avg.com:
+  source: Google
+  medium: search
+  query: *ref_26
+www.cnn.com:
+  source: Google
+  medium: search
+  query: *ref_26
+darkoogle.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.darkoogle.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.foxtab.com:
+  source: Google
+  medium: search
+  query: *ref_26
+www.gooofullsearch.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.hiyo.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.incredimail.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search1.incredimail.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search2.incredimail.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search3.incredimail.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search4.incredimail.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.incredibar.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.sweetim.com:
+  source: Google
+  medium: search
+  query: *ref_26
+www.fastweb.it:
+  source: Google
+  medium: search
+  query: *ref_26
+search.juno.com:
+  source: Google
+  medium: search
+  query: *ref_26
+find.tdc.dk:
+  source: Google
+  medium: search
+  query: *ref_26
+searchresults.verizon.com:
+  source: Google
+  medium: search
+  query: *ref_26
+search.walla.co.il:
+  source: Google
+  medium: search
+  query: *ref_26
+search.alot.com:
+  source: Google
+  medium: search
+  query: *ref_26
+www.googleearth.de:
+  source: Google
+  medium: search
+  query: *ref_26
+www.googleearth.fr:
+  source: Google
+  medium: search
+  query: *ref_26
+webcache.googleusercontent.com:
+  source: Google
+  medium: search
+  query: *ref_26
+encrypted.google.com:
+  source: Google
+  medium: search
+  query: *ref_26
+googlesyndicatedsearch.com:
+  source: Google
+  medium: search
+  query: *ref_26
+blogsearch.google.ac:
+  source: Google Blogsearch
+  medium: search
+  query: &ref_27
+    - q
+blogsearch.google.ad:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ae:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.am:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.as:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.at:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.az:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ba:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.be:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.bf:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.bg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.bi:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.bj:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.bs:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.by:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ca:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cat:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cc:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cd:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cf:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ch:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ci:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.bw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ck:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.cr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.id:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.il:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.in:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.jp:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ke:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.kr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ls:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ma:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.mz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.nz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.th:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.tz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ug:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.uk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.uz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.ve:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.vi:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.za:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.zm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.co.zw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.af:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ag:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ai:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ar:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.au:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.bd:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.bh:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.bn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.bo:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.br:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.by:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.bz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.co:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.cu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.cy:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.do:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ec:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.eg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.et:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.fj:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.gh:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.gi:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.gt:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.hk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.jm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.kh:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.kw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.lb:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.lc:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ly:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.mt:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.mx:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.my:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.na:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.nf:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ng:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ni:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.np:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.om:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.pa:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.pe:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ph:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.pk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.pr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.py:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.qa:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.sa:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.sb:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.sg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.sl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.sv:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.tj:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.tn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.tr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.tw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.ua:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.uy:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.vc:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.com.vn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cv:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.cz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.de:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.dj:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.dk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.dm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.dz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ee:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.es:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.fi:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.fm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.fr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ga:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gd:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ge:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gf:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gp:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.gy:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.hn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.hr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ht:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.hu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ie:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.im:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.io:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.iq:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.is:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.it:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.it.ao:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.je:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.jo:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.kg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ki:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.kz:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.la:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.li:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.lk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.lt:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.lu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.lv:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.md:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.me:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ml:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ms:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mv:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.mw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ne:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.nl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.no:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.nr:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.nu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.pl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.pn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ps:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.pt:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ro:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.rs:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ru:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.rw:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.sc:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.se:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.sh:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.si:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.sk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.sm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.sn:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.so:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.st:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.td:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.tg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.tk:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.tl:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.tm:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.to:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.tt:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.us:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.vg:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.vu:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+blogsearch.google.ws:
+  source: Google Blogsearch
+  medium: search
+  query: *ref_27
+google.ac/imgres:
+  source: Google Images
+  medium: search
+  query: &ref_28
+    - q
+google.ad/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ae/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.am/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.as/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.at/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.az/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ba/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.be/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.bf/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.bg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.bi/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.bj/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.bs/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.by/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ca/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cat/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cc/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cd/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cf/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ch/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ci/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.bw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ck/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.cr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.id/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.il/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.in/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.jp/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ke/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.kr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ls/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ma/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.mz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.nz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.th/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.tz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ug/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.uk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.uz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.ve/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.vi/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.za/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.zm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.co.zw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.af/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ag/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ai/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ar/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.au/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.bd/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.bh/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.bn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.bo/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.br/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.by/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.bz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.co/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.cu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.cy/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.do/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ec/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.eg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.et/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.fj/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.gh/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.gi/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.gt/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.hk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.jm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.kh/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.kw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.lb/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.lc/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ly/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.mt/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.mx/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.my/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.na/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.nf/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ng/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ni/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.np/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.om/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.pa/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.pe/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ph/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.pk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.pr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.py/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.qa/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.sa/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.sb/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.sg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.sl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.sv/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.tj/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.tn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.tr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.tw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.ua/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.uy/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.vc/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.com.vn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cv/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.cz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.de/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.dj/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.dk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.dm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.dz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ee/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.es/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.fi/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.fm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.fr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ga/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gd/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ge/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gf/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gp/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.gy/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.hn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.hr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ht/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.hu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ie/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.im/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.io/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.iq/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.is/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.it/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.it.ao/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.je/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.jo/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.kg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ki/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.kz/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.la/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.li/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.lk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.lt/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.lu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.lv/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.md/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.me/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ml/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ms/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mv/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.mw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ne/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.nl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.no/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.nr/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.nu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.pl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.pn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ps/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.pt/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ro/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.rs/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.ru/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.rw/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.sc/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.se/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.sh/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.si/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.sk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.sm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.sn/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.so/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.st/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.td/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.tg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.tk/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.tl/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.tm/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.to/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.tt/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.us/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.vg/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+google.vu/imgres:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ws:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ac:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ad:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ae:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.am:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.as:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.at:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.az:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ba:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.be:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.bf:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.bg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.bi:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.bj:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.bs:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.by:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ca:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cat:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cc:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cd:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cf:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ch:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ci:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.bw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ck:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.cr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.id:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.il:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.in:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.jp:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ke:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.kr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ls:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ma:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.mz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.nz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.th:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.tz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ug:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.uk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.uz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.ve:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.vi:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.za:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.zm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.co.zw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.af:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ag:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ai:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ar:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.au:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.bd:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.bh:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.bn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.bo:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.br:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.by:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.bz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.co:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.cu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.cy:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.do:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ec:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.eg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.et:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.fj:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.gh:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.gi:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.gt:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.hk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.jm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.kh:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.kw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.lb:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.lc:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ly:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.mt:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.mx:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.my:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.na:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.nf:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ng:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ni:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.np:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.om:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.pa:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.pe:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ph:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.pk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.pr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.py:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.qa:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.sa:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.sb:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.sg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.sl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.sv:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.tj:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.tn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.tr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.tw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.ua:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.uy:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.vc:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.com.vn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cv:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.cz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.de:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.dj:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.dk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.dm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.dz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ee:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.es:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.fi:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.fm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.fr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ga:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gd:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ge:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gf:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gp:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.gy:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.hn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.hr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ht:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.hu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ie:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.im:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.io:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.iq:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.is:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.it:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.it.ao:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.je:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.jo:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.kg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ki:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.kz:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.la:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.li:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.lk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.lt:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.lu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.lv:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.md:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.me:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ml:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ms:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mv:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.mw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ne:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.nl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.no:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.nr:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.nu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.pl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.pn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ps:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.pt:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ro:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.rs:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.ru:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.rw:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.sc:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.se:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.sh:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.si:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.sk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.sm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.sn:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.so:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.st:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.td:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.tg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.tk:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.tl:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.tm:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.to:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.tt:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.us:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.vg:
+  source: Google Images
+  medium: search
+  query: *ref_28
+images.google.vu:
+  source: Google Images
+  medium: search
+  query: *ref_28
+news.google.ac:
+  source: Google News
+  medium: search
+  query: &ref_29
+    - q
+news.google.ad:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ae:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.am:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.as:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.at:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.az:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ba:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.be:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.bf:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.bg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.bi:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.bj:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.bs:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.by:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ca:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cat:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cc:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cd:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cf:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ch:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ci:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.bw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ck:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.cr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.id:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.il:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.in:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.jp:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ke:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.kr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ls:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ma:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.mz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.nz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.th:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.tz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ug:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.uk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.uz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.ve:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.vi:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.za:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.zm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.co.zw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.af:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ag:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ai:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ar:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.au:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.bd:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.bh:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.bn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.bo:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.br:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.by:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.bz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.co:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.cu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.cy:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.do:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ec:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.eg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.et:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.fj:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.gh:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.gi:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.gt:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.hk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.jm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.kh:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.kw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.lb:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.lc:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ly:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.mt:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.mx:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.my:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.na:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.nf:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ng:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ni:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.np:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.om:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.pa:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.pe:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ph:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.pk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.pr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.py:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.qa:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.sa:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.sb:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.sg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.sl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.sv:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.tj:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.tn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.tr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.tw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.ua:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.uy:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.vc:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.com.vn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cv:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.cz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.de:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.dj:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.dk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.dm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.dz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ee:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.es:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.fi:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.fm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.fr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ga:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gd:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ge:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gf:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gp:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.gy:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.hn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.hr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ht:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.hu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ie:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.im:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.io:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.iq:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.is:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.it:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.it.ao:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.je:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.jo:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.kg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ki:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.kz:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.la:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.li:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.lk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.lt:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.lu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.lv:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.md:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.me:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ml:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ms:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mv:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.mw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ne:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.nl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.no:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.nr:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.nu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.pl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.pn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ps:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.pt:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ro:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.rs:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ru:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.rw:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.sc:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.se:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.sh:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.si:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.sk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.sm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.sn:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.so:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.st:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.td:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.tg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.tk:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.tl:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.tm:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.to:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.tt:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.us:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.vg:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.vu:
+  source: Google News
+  medium: search
+  query: *ref_29
+news.google.ws:
+  source: Google News
+  medium: search
+  query: *ref_29
+google.ac/products:
+  source: Google Product Search
+  medium: search
+  query: &ref_30
+    - q
+google.ad/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ae/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.am/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.as/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.at/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.az/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ba/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.be/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.bf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.bg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.bi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.bj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.bs/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.by/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ca/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cat/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ch/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ci/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.bw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ck/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.cr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.id/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.il/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.in/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.jp/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ke/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.kr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ls/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ma/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.mz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.nz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.th/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.tz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ug/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.uk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.uz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.ve/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.vi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.za/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.zm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.co.zw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.af/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ag/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ai/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ar/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.au/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.bd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.bh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.bn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.bo/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.br/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.by/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.bz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.co/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.cu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.cy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.do/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ec/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.eg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.et/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.fj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.gh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.gi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.gt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.hk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.jm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.kh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.kw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.lb/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.lc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ly/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.mt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.mx/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.my/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.na/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.nf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ng/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ni/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.np/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.om/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.pa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.pe/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ph/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.pk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.pr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.py/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.qa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.sa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.sb/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.sg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.sl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.sv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.tj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.tn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.tr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.tw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.ua/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.uy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.vc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.com.vn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.cz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.de/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.dj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.dk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.dm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.dz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ee/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.es/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.fi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.fm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.fr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ga/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ge/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gp/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.gy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.hn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.hr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ht/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.hu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ie/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.im/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.io/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.iq/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.is/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.it/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.it.ao/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.je/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.jo/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.kg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ki/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.kz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.la/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.li/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.lk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.lt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.lu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.lv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.md/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.me/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ml/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ms/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.mw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ne/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.nl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.no/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.nr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.nu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.pl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.pn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ps/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.pt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ro/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.rs/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ru/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.rw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.sc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.se/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.sh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.si/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.sk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.sm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.sn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.so/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.st/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.td/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.tg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.tk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.tl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.tm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.to/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.tt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.us/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.vg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.vu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+google.ws/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ac/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ad/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ae/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.am/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.as/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.at/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.az/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ba/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.be/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.bf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.bg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.bi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.bj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.bs/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.by/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ca/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cat/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ch/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ci/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.bw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ck/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.cr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.id/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.il/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.in/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.jp/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ke/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.kr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ls/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ma/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.mz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.nz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.th/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.tz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ug/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.uk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.uz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.ve/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.vi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.za/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.zm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.co.zw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.af/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ag/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ai/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ar/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.au/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.bd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.bh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.bn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.bo/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.br/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.by/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.bz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.co/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.cu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.cy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.do/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ec/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.eg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.et/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.fj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.gh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.gi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.gt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.hk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.jm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.kh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.kw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.lb/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.lc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ly/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.mt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.mx/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.my/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.na/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.nf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ng/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ni/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.np/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.om/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.pa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.pe/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ph/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.pk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.pr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.py/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.qa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.sa/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.sb/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.sg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.sl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.sv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.tj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.tn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.tr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.tw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.ua/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.uy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.vc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.com.vn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.cz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.de/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.dj/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.dk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.dm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.dz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ee/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.es/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.fi/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.fm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.fr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ga/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gd/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ge/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gf/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gp/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.gy/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.hn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.hr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ht/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.hu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ie/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.im/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.io/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.iq/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.is/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.it/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.it.ao/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.je/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.jo/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.kg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ki/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.kz/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.la/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.li/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.lk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.lt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.lu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.lv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.md/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.me/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ml/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ms/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mv/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.mw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ne/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.nl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.no/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.nr/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.nu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.pl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.pn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ps/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.pt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ro/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.rs/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ru/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.rw/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.sc/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.se/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.sh/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.si/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.sk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.sm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.sn/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.so/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.st/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.td/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.tg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.tk/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.tl/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.tm/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.to/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.tt/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.us/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.vg/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.vu/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+www.google.ws/products:
+  source: Google Product Search
+  medium: search
+  query: *ref_30
+video.google.com:
+  source: Google Video
+  medium: search
+  query:
+    - q
+www.goyellow.de:
+  source: Goyellow.de
+  medium: search
+  query:
+    - MDN
+www.gulesider.no:
+  source: Gule Sider
+  medium: search
+  query:
+    - q
+www.highbeam.com:
+  source: HighBeam
+  medium: search
+  query:
+    - q
+req.-hit-parade.com:
+  source: Hit-Parade
+  medium: search
+  query: &ref_31
+    - p7
+class.hit-parade.com:
+  source: Hit-Parade
+  medium: search
+  query: *ref_31
+www.hit-parade.com:
+  source: Hit-Parade
+  medium: search
+  query: *ref_31
+holmes.ge:
+  source: Holmes
+  medium: search
+  query:
+    - q
+www.hooseek.com:
+  source: Hooseek.com
+  medium: search
+  query:
+    - recherche
+www.hotbot.com:
+  source: Hotbot
+  medium: search
+  query:
+    - query
+blogs.icerocket.com:
+  source: Icerockeet
+  medium: search
+  query:
+    - q
+www.icq.com:
+  source: ICQ
+  medium: search
+  query: &ref_32
+    - q
+search.icq.com:
+  source: ICQ
+  medium: search
+  query: *ref_32
+www.ilse.nl:
+  source: Ilse
+  medium: search
+  query:
+    - search_for
+inbox.com/search/:
+  source: Inbox.com
+  medium: search
+  query:
+    - q
+infospace.com:
+  source: InfoSpace
+  medium: search
+  query: &ref_33
+    - q
+    - s
+dogpile.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+www.dogpile.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+metacrawler.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+webfetch.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+webcrawler.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+search.kiwee.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+isearch.babylon.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+start.facemoods.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+search.magnetic.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+search.searchcompletion.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+clusty.com:
+  source: InfoSpace
+  medium: search
+  query: *ref_33
+inspsearch.com:
+  source: Flyingbird
+  medium: search
+  query: &ref_34
+    - q
+viview.inspsearch.com:
+  source: Flyingbird
+  medium: search
+  query: *ref_34
+www.google.interia.pl:
+  source: Interia
+  medium: search
+  query:
+    - q
+start.iplay.com:
+  source: I-play
+  medium: search
+  query:
+    - q
+search.i.ua:
+  source: I.ua
+  medium: search
+  query:
+    - q
+ixquick.com:
+  source: IXquick
+  medium: search
+  query: &ref_35
+    - query
+www.eu.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+ixquick.de:
+  source: IXquick
+  medium: search
+  query: *ref_35
+www.ixquick.de:
+  source: IXquick
+  medium: search
+  query: *ref_35
+us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s1.us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s2.us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s3.us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s4.us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s5.us.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+eu.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s8-eu.ixquick.com:
+  source: IXquick
+  medium: search
+  query: *ref_35
+s1-eu.ixquick.de:
+  source: IXquick
+  medium: search
+  query: *ref_35
+jyxo.1188.cz:
+  source: Jyxo
+  medium: search
+  query:
+    - q
+www.jungle-spider.de:
+  source: Jungle Spider
+  medium: search
+  query:
+    - q
+junglekey.com:
+  source: Jungle Key
+  medium: search
+  query: &ref_36
+    - query
+junglekey.fr:
+  source: Jungle Key
+  medium: search
+  query: *ref_36
+www.kataweb.it:
+  source: Kataweb
+  medium: search
+  query:
+    - q
+www.kvasir.no:
+  source: Kvasir
+  medium: search
+  query:
+    - q
+kununu.com:
+  source: kununu
+  medium: search
+  query:
+    - q
+www.latne.lv:
+  source: Latne
+  medium: search
+  query:
+    - q
+www.toile.com:
+  source: La Toile Du Quebec Via Google
+  medium: search
+  query: &ref_37
+    - q
+web.toile.com:
+  source: La Toile Du Quebec Via Google
+  medium: search
+  query: *ref_37
+liveinternet.ru:
+  source: Liveinternet
+  medium: search
+  query:
+    - q
+www.looksmart.com:
+  source: Looksmart
+  medium: search
+  query:
+    - key
+lo.st:
+  source: Lo.st
+  medium: search
+  query:
+    - x_query
+search.lycos.com:
+  source: Lycos
+  medium: search
+  query: &ref_38
+    - query
+www.lycos.com:
+  source: Lycos
+  medium: search
+  query: *ref_38
+lycos.com:
+  source: Lycos
+  medium: search
+  query: *ref_38
+www.maailm.com:
+  source: maailm
+  medium: search
+  query:
+    - tekst
+mail.ru:
+  source: Mail.ru
+  medium: search
+  query: &ref_39
+    - q
+m.mail.ru:
+  source: Mail.ru
+  medium: search
+  query: *ref_39
+go.mail.ru:
+  source: Mail.ru
+  medium: search
+  query: *ref_39
+www.mamma.com:
+  source: Mamma
+  medium: search
+  query: &ref_40
+    - query
+mamma75.mamma.com:
+  source: Mamma
+  medium: search
+  query: *ref_40
+www.marktplaats.nl:
+  source: Marktplaats
+  medium: search
+  query:
+    - query
+maxwebsearch.com:
+  source: Maxwebsearch
+  medium: search
+  query:
+    - query
+meta.ua:
+  source: Meta
+  medium: search
+  query:
+    - q
+s1.metacrawler.de:
+  source: MetaCrawler.de
+  medium: search
+  query: &ref_41
+    - qry
+s2.metacrawler.de:
+  source: MetaCrawler.de
+  medium: search
+  query: *ref_41
+s3.metacrawler.de:
+  source: MetaCrawler.de
+  medium: search
+  query: *ref_41
+meta.rrzn.uni-hannover.de:
+  source: Metager
+  medium: search
+  query: &ref_42
+    - eingabe
+www.metager.de:
+  source: Metager
+  medium: search
+  query: *ref_42
+metager2.de:
+  source: Metager2
+  medium: search
+  query:
+    - q
+www.meinestadt.de:
+  source: Meinestadt
+  medium: search
+  query:
+    - words
+www.mister-wong.com:
+  source: Mister Wong
+  medium: search
+  query: &ref_43
+    - Keywords
+www.mister-wong.de:
+  source: Mister Wong
+  medium: search
+  query: *ref_43
+www.monstercrawler.com:
+  source: Monstercrawler
+  medium: search
+  query:
+    - qry
+www.mozbot.fr:
+  source: Mozbot
+  medium: search
+  query: &ref_44
+    - q
+www.mozbot.co.uk:
+  source: Mozbot
+  medium: search
+  query: *ref_44
+www.mozbot.com:
+  source: Mozbot
+  medium: search
+  query: *ref_44
+ariadna.elmundo.es:
+  source: El Mundo
+  medium: search
+  query:
+    - q
+mysearch.com:
+  source: MySearch
+  medium: search
+  query: &ref_45
+    - searchfor
+    - searchFor
+www.mysearch.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+ms114.mysearch.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+ms146.mysearch.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+kf.mysearch.myway.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+ki.mysearch.myway.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+search.myway.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+search.mywebsearch.com:
+  source: MySearch
+  medium: search
+  query: *ref_45
+www.najdi.si:
+  source: Najdi
+  medium: search
+  query:
+    - q
+search.nate.com:
+  source: Nate
+  medium: search
+  query:
+    - q
+search.naver.com:
+  source: Naver
+  medium: search
+  query:
+    - query
+image.search.naver.com:
+  source: Naver Images
+  medium: search
+  query: &ref_46
+    - query
+imagesearch.naver.com:
+  source: Naver Images
+  medium: search
+  query: *ref_46
+ko.search.need2find.com:
+  source: Needtofind
+  medium: search
+  query:
+    - searchfor
+www.neti.ee:
+  source: Neti
+  medium: search
+  query:
+    - query
+search.nifty.com:
+  source: Nifty
+  medium: search
+  query:
+    - q
+nigma.ru:
+  source: Nigma
+  medium: search
+  query:
+    - s
+szukaj.onet.pl:
+  source: Onet
+  medium: search
+  query:
+    - qt
+online.no:
+  source: Online.no
+  medium: search
+  query:
+    - q
+www.1881.no:
+  source: Opplysningen 1881
+  medium: search
+  query:
+    - Query
+busca.orange.es:
+  source: Orange
+  medium: search
+  query: &ref_47
+    - q
+    - kw
+search.orange.co.uk:
+  source: Orange
+  medium: search
+  query: *ref_47
+lemoteur.orange.fr:
+  source: Orange
+  medium: search
+  query: *ref_47
+www.paperball.de:
+  source: Paperball
+  medium: search
+  query:
+    - q
+search.peoplepc.com:
+  source: PeoplePC
+  medium: search
+  query:
+    - q
+www.picsearch.com:
+  source: Picsearch
+  medium: search
+  query:
+    - q
+www.plazoo.com:
+  source: Plazoo
+  medium: search
+  query:
+    - q
+poisk.ru:
+  source: Poisk.ru
+  medium: search
+  query:
+    - q
+www.pricerunner.co.uk:
+  source: PriceRunner
+  medium: search
+  query:
+    - q
+search.qip.ru:
+  source: qip
+  medium: search
+  query:
+    - query
+www.qualigo.at:
+  source: Qualigo
+  medium: search
+  query: &ref_48
+    - q
+www.qualigo.ch:
+  source: Qualigo
+  medium: search
+  query: *ref_48
+www.qualigo.de:
+  source: Qualigo
+  medium: search
+  query: *ref_48
+www.qualigo.nl:
+  source: Qualigo
+  medium: search
+  query: *ref_48
+www.qwant.com:
+  source: Qwant
+  medium: search
+  query: &ref_49
+    - q
+lite.qwant.com:
+  source: Qwant
+  medium: search
+  query: *ref_49
+websearch.rakuten.co.jp:
+  source: Rakuten
+  medium: search
+  query:
+    - qt
+nova.rambler.ru:
+  source: Rambler
+  medium: search
+  query:
+    - query
+    - words
+rpmfind.net:
+  source: RPMFind
+  medium: search
+  query: &ref_50
+    - query
+fr2.rpmfind.net:
+  source: RPMFind
+  medium: search
+  query: *ref_50
+search.rr.com:
+  source: Road Runner Search
+  medium: search
+  query:
+    - q
+pesquisa.sapo.pt:
+  source: Sapo
+  medium: search
+  query:
+    - q
+www.searchthis.com:
+  source: Search This
+  medium: search
+  query:
+    - q
+www.search.com:
+  source: Search.com
+  medium: search
+  query:
+    - q
+www.search.ch:
+  source: Search.ch
+  medium: search
+  query:
+    - q
+searchalot.com:
+  source: Searchalot
+  medium: search
+  query:
+    - q
+www.searchcanvas.com:
+  source: SearchCanvas
+  medium: search
+  query:
+    - q
+www.searchy.co.uk:
+  source: Searchy
+  medium: search
+  query:
+    - q
+search.seznam.cz:
+  source: Seznam
+  medium: search
+  query:
+    - q
+www.sharelook.fr:
+  source: Sharelook
+  medium: search
+  query:
+    - keyword
+www.skynet.be:
+  source: Skynet
+  medium: search
+  query:
+    - q
+thesmartsearch.net:
+  source: The Smart Search
+  medium: search
+  query: &ref_51
+    - q
+www.thesmartsearch.net:
+  source: The Smart Search
+  medium: search
+  query: *ref_51
+www.sougou.com:
+  source: Sogou
+  medium: search
+  query: &ref_52
+    - query
+    - w
+www.soso.com:
+  source: Sogou
+  medium: search
+  query: *ref_52
+search.softonic.com:
+  source: Softonic
+  medium: search
+  query:
+    - q
+sosodesktop.com:
+  source: SoSoDesk
+  medium: search
+  query: &ref_53
+    - q
+search.sosodesktop.com:
+  source: SoSoDesk
+  medium: search
+  query: *ref_53
+so.m.sm.cn:
+  source: Shenma
+  medium: search
+  query: &ref_54
+    - q
+yz.m.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+m.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+quark.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+m.sp.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+m.yz2.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+m.yz.sm.cn:
+  source: Shenma
+  medium: search
+  query: *ref_54
+search.snapdo.com:
+  source: Snapdo
+  medium: search
+  query:
+    - q
+startgoogle.startpagina.nl:
+  source: Startpagina
+  medium: search
+  query:
+    - q
+www.startsiden.no:
+  source: Startsiden
+  medium: search
+  query:
+    - q
+suche.info:
+  source: suche.info
+  medium: search
+  query:
+    - q
+www.suchmaschine.com:
+  source: Suchmaschine.com
+  medium: search
+  query:
+    - suchstr
+www.suchnase.de:
+  source: Suchnase
+  medium: search
+  query:
+    - q
+www.talktalk.co.uk:
+  source: TalkTalk
+  medium: search
+  query:
+    - query
+technorati.com:
+  source: Technorati
+  medium: search
+  query:
+    - q
+search.media.telstra.com.au:
+  source: Telstra
+  medium: search
+  query:
+    - find
+www.teoma.com:
+  source: Teoma
+  medium: search
+  query:
+    - q
+buscador.terra.es:
+  source: Terra
+  medium: search
+  query: &ref_55
+    - query
+buscador.terra.cl:
+  source: Terra
+  medium: search
+  query: *ref_55
+buscador.terra.com.br:
+  source: Terra
+  medium: search
+  query: *ref_55
+search.tiscali.it:
+  source: Tiscali
+  medium: search
+  query: &ref_56
+    - q
+    - key
+search-dyn.tiscali.it:
+  source: Tiscali
+  medium: search
+  query: *ref_56
+hledani.tiscali.cz:
+  source: Tiscali
+  medium: search
+  query: *ref_56
+www.tixuma.de:
+  source: Tixuma
+  medium: search
+  query:
+    - sc
+suche.t-online.de:
+  source: T-Online
+  medium: search
+  query: &ref_57
+    - q
+brisbane.t-online.de:
+  source: T-Online
+  medium: search
+  query: *ref_57
+navigationshilfe.t-online.de:
+  source: T-Online
+  medium: search
+  query: *ref_57
+www.toolbarhome.com:
+  source: Toolbarhome
+  medium: search
+  query: &ref_58
+    - q
+vshare.toolbarhome.com:
+  source: Toolbarhome
+  medium: search
+  query: *ref_58
+www.trouvez.com:
+  source: Trouvez.com
+  medium: search
+  query:
+    - query
+www.trovarapido.com:
+  source: TrovaRapido
+  medium: search
+  query:
+    - q
+www.trusted--search.com:
+  source: Trusted-Search
+  medium: search
+  query:
+    - w
+search.tut.by:
+  source: Tut.by
+  medium: search
+  query:
+    - query
+www.twingly.com:
+  source: Twingly
+  medium: search
+  query:
+    - q
+search.ukr.net:
+  source: UKR.net
+  medium: search
+  query:
+    - q
+busca.uol.com.br:
+  source: uol.com.br
+  medium: search
+  query:
+    - q
+www.url.org:
+  source: URL.ORGanizier
+  medium: search
+  query:
+    - q
+www.vinden.nl:
+  source: Vinden
+  medium: search
+  query:
+    - q
+www.vindex.nl:
+  source: Vindex
+  medium: search
+  query: &ref_59
+    - search_for
+search.vindex.nl:
+  source: Vindex
+  medium: search
+  query: *ref_59
+ricerca.virgilio.it:
+  source: Virgilio
+  medium: search
+  query: &ref_60
+    - qs
+ricercaimmagini.virgilio.it:
+  source: Virgilio
+  medium: search
+  query: *ref_60
+ricercavideo.virgilio.it:
+  source: Virgilio
+  medium: search
+  query: *ref_60
+ricercanews.virgilio.it:
+  source: Virgilio
+  medium: search
+  query: *ref_60
+mobile.virgilio.it:
+  source: Virgilio
+  medium: search
+  query: *ref_60
+search.ke.voila.fr:
+  source: Voila
+  medium: search
+  query: &ref_61
+    - rdata
+    - kw
+www.lemoteur.fr:
+  source: Voila
+  medium: search
+  query: *ref_61
+web.volny.cz:
+  source: Volny
+  medium: search
+  query:
+    - search
+www.walhello.info:
+  source: Walhello
+  medium: search
+  query: &ref_62
+    - key
+www.walhello.com:
+  source: Walhello
+  medium: search
+  query: *ref_62
+www.walhello.de:
+  source: Walhello
+  medium: search
+  query: *ref_62
+www.walhello.nl:
+  source: Walhello
+  medium: search
+  query: *ref_62
+suche.web.de:
+  source: Web.de
+  medium: search
+  query:
+    - su
+www.web.nl:
+  source: Web.nl
+  medium: search
+  query:
+    - zoekwoord
+www.weborama.com:
+  source: Weborama
+  medium: search
+  query:
+    - QUERY
+www.websearch.com:
+  source: WebSearch
+  medium: search
+  query:
+    - qkw
+    - q
+search.winamp.com:
+  source: Winamp
+  medium: search
+  query:
+    - q
+www.witch.de:
+  source: Witch
+  medium: search
+  query:
+    - search
+szukaj.wp.pl:
+  source: Wirtualna Polska
+  medium: search
+  query:
+    - szukaj
+search.www.ee:
+  source: WWW
+  medium: search
+  query:
+    - query
+www.x-recherche.com:
+  source: X-recherche
+  medium: search
+  query:
+    - MOTS
+search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: &ref_63
+    - p
+    - q
+yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ar.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ar.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+au.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+au.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+br.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+br.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ca.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ca.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+cade.searchde.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+cade.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+chinese.searchinese.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+chinese.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+cn.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+cn.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+de.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+de.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+dk.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+dk.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+es.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+es.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+espanol.searchpanol.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+espanol.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+fr.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+fr.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+hk.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+hk.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ie.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ie.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+in.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+in.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+it.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+it.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+kr.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+kr.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+mx.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+mx.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+no.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+no.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+nz.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+nz.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+one.cn.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+one.searchn.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+qc.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+qc.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ru.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ru.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+se.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+se.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+search.searcharch.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+tw.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+tw.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+uk.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+uk.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+us.search.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+us.yahoo.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+www.yahoo.co.jp:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+search.yahoo.co.jp:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+www.cercato.it:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+search.offerbox.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+ys.mirostart.com:
+  source: Yahoo!
+  medium: search
+  query: *ref_63
+image.yahoo.cn:
+  source: Yahoo! Images
+  medium: search
+  query: &ref_64
+    - p
+    - q
+images.search.yahoo.com:
+  source: Yahoo! Images
+  medium: search
+  query: *ref_64
+search.yam.com:
+  source: Yam
+  medium: search
+  query:
+    - k
+yandex.ru:
+  source: Yandex
+  medium: search
+  query: &ref_65
+    - text
+yandex.ua:
+  source: Yandex
+  medium: search
+  query: *ref_65
+yandex.com:
+  source: Yandex
+  medium: search
+  query: *ref_65
+yandex.by:
+  source: Yandex
+  medium: search
+  query: *ref_65
+www.yandex.ru:
+  source: Yandex
+  medium: search
+  query: *ref_65
+www.yandex.ua:
+  source: Yandex
+  medium: search
+  query: *ref_65
+www.yandex.com:
+  source: Yandex
+  medium: search
+  query: *ref_65
+www.yandex.by:
+  source: Yandex
+  medium: search
+  query: *ref_65
+clck.yandex.ru:
+  source: Yandex
+  medium: search
+  query: *ref_65
+clck.yandex.ua:
+  source: Yandex
+  medium: search
+  query: *ref_65
+clck.yandex.com:
+  source: Yandex
+  medium: search
+  query: *ref_65
+clck.yandex.by:
+  source: Yandex
+  medium: search
+  query: *ref_65
+images.yandex.ru:
+  source: Yandex Images
+  medium: search
+  query: &ref_66
+    - text
+images.yandex.ua:
+  source: Yandex Images
+  medium: search
+  query: *ref_66
+images.yandex.com:
+  source: Yandex Images
+  medium: search
+  query: *ref_66
+images.yandex.by:
+  source: Yandex Images
+  medium: search
+  query: *ref_66
+www.yasni.de:
+  source: Yasni
+  medium: search
+  query: &ref_67
+    - query
+www.yasni.com:
+  source: Yasni
+  medium: search
+  query: *ref_67
+www.yasni.co.uk:
+  source: Yasni
+  medium: search
+  query: *ref_67
+www.yasni.ch:
+  source: Yasni
+  medium: search
+  query: *ref_67
+www.yasni.at:
+  source: Yasni
+  medium: search
+  query: *ref_67
+www.yatedo.com:
+  source: Yatedo
+  medium: search
+  query: &ref_68
+    - q
+www.yatedo.fr:
+  source: Yatedo
+  medium: search
+  query: *ref_68
+search.yippy.com:
+  source: Yippy
+  medium: search
+  query:
+    - q
+    - query
+www.yougoo.fr:
+  source: YouGoo
+  medium: search
+  query:
+    - q
+www.zapmeta.com:
+  source: Zapmeta
+  medium: search
+  query: &ref_69
+    - q
+    - query
+www.zapmeta.nl:
+  source: Zapmeta
+  medium: search
+  query: *ref_69
+www.zapmeta.de:
+  source: Zapmeta
+  medium: search
+  query: *ref_69
+uk.zapmeta.com:
+  source: Zapmeta
+  medium: search
+  query: *ref_69
+www3.zoek.nl:
+  source: Zoek
+  medium: search
+  query:
+    - q
+p.zhongsou.com:
+  source: Zhongsou
+  medium: search
+  query:
+    - w
+www.zoeken.nl:
+  source: Zoeken
+  medium: search
+  query:
+    - q
+zoohoo.cz:
+  source: Zoohoo
+  medium: search
+  query:
+    - q
+acuityplatform.com:
+  source: Acuity Ads
+  medium: paid
+  query: []
+adform.net:
+  source: Adform
+  medium: paid
+  query: []
+adfox.ru:
+  source: ADFOX
+  medium: paid
+  query: []
+www.adfox.ru:
+  source: ADFOX
+  medium: paid
+  query: []
+ads.adfox.ru:
+  source: ADFOX
+  medium: paid
+  query: []
+www.ads.adfox.ru:
+  source: ADFOX
+  medium: paid
+  query: []
+adition.com:
+  source: Adition
+  medium: paid
+  query: []
+adnet.de:
+  source: AdNET
+  medium: paid
+  query: []
+adroll.com:
+  source: AdRoll
+  medium: paid
+  query: []
+adspirit.de:
+  source: AdSpirit
+  medium: paid
+  query: []
+rtbcity.com:
+  source: AdSpirit
+  medium: paid
+  query: []
+plusperformance.com:
+  source: AdSpirit
+  medium: paid
+  query: []
+ib.adnxs.com:
+  source: AppNexus
+  medium: paid
+  query: []
+adnxs.com:
+  source: AppNexus
+  medium: paid
+  query: []
+247realmedia.com:
+  source: AppNexus
+  medium: paid
+  query: []
+wunderloop.net:
+  source: AudienceScience
+  medium: paid
+  query: []
+bidswitch.net:
+  source: BidSwitch
+  medium: paid
+  query: []
+casalemedia.com:
+  source: Casale Media
+  medium: paid
+  query: []
+cas.jp.as.criteo.com:
+  source: Criteo
+  medium: paid
+  query: []
+cas.criteo.com:
+  source: Criteo
+  medium: paid
+  query: []
+ad.doubleclick.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+ad-apac.doubleclick.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+s0.2mdn.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+s1.2mdn.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+dp.g.doubleclick.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+pubads.g.doubleclick.net:
+  source: Doubleclick
+  medium: paid
+  query: []
+eyeota.net:
+  source: Eyeota
+  medium: paid
+  query: []
+flashtalking.com:
+  source: Flashtalking
+  medium: paid
+  query: []
+servedby.flashtalking.com:
+  source: Flashtalking
+  medium: paid
+  query: []
+adingo.jp:
+  source: Fluct
+  medium: paid
+  query: []
+www.googleadservices.com:
+  source: Google
+  medium: paid
+  query: []
+partner.googleadservices.com:
+  source: Google
+  medium: paid
+  query: []
+googleads.g.doubleclick.net:
+  source: Google
+  medium: paid
+  query: []
+tpc.googlesyndication.com:
+  source: Google
+  medium: paid
+  query: []
+googleadservices.com:
+  source: Google
+  medium: paid
+  query: []
+imasdk.googleapis.com:
+  source: Google
+  medium: paid
+  query: []
+lfstmedia.com:
+  source: LifeStreet
+  medium: paid
+  query: []
+lowermybills.com:
+  source: LowerMyBills
+  medium: paid
+  query:
+    - leadid
+jivox.com:
+  source: Jivox
+  medium: paid
+  query: []
+microad.jp:
+  source: MicroAd
+  medium: paid
+  query: []
+mixpo.com:
+  source: Mixpo
+  medium: paid
+  query: []
+mozo.com.au:
+  source: Mozo
+  medium: paid
+  query: []
+a.mozo.com.au:
+  source: Mozo
+  medium: paid
+  query: []
+adadvisor.net:
+  source: Neustar AdAdvisor
+  medium: paid
+  query: []
+nexage.com:
+  source: ONE by AOL
+  medium: paid
+  query: []
+us-ads.openx.net:
+  source: OpenX
+  medium: paid
+  query: []
+openx.net:
+  source: OpenX
+  medium: paid
+  query: []
+servedbyopenx.com:
+  source: OpenX
+  medium: paid
+  query: []
+openxenterprise.com:
+  source: OpenX
+  medium: paid
+  query: []
+paid.outbrain.com:
+  source: Outbrain
+  medium: paid
+  query: []
+farm.plista.com:
+  source: Plista
+  medium: paid
+  query: []
+price.ru:
+  source: Price.ru
+  medium: paid
+  query: []
+v.price.ru:
+  source: Price.ru
+  medium: paid
+  query: []
+sshowads.pubmatic.com:
+  source: PubMatic
+  medium: paid
+  query: []
+optimized-by.rubiconproject.com:
+  source: Rubicon Project
+  medium: paid
+  query: []
+bs.serving-sys.com:
+  source: Sizmek
+  medium: paid
+  query: []
+sociomantic.com:
+  source: Sociomantic Labs
+  medium: paid
+  query: []
+sonobi.com:
+  source: Sonobi
+  medium: paid
+  query: []
+lijit.com:
+  source: Sovrn
+  medium: paid
+  query: []
+steelhousemedia.com:
+  source: SteelHouse
+  medium: paid
+  query: []
+stickyadstv.com:
+  source: StickyADS.tv
+  medium: paid
+  query: []
+sfx.stickyadstv.com:
+  source: StickyADS.tv
+  medium: paid
+  query: []
+trc.taboola.com:
+  source: Taboola
+  medium: paid
+  query: []
+api.taboola.com:
+  source: Taboola
+  medium: paid
+  query: []
+taboola.com:
+  source: Taboola
+  medium: paid
+  query: []
+torg.mail.ru:
+  source: Torg.Mail.ru
+  medium: paid
+  query: []
+cdnx.tribalfusion.com:
+  source: Tribal Fusion
+  medium: paid
+  query: []
+www.whitepages.com.au:
+  source: White Pages
+  medium: paid
+  query: []
+mobile.whitepages.com.au:
+  source: White Pages
+  medium: paid
+  query: []
+an.yandex.ru:
+  source: Yandex.Direct
+  medium: paid
+  query: []
+yabs.yandex.ru:
+  source: Yandex.Direct
+  medium: paid
+  query: []
+yabs.yandex.ua:
+  source: Yandex.Direct
+  medium: paid
+  query: []
+yabs.yandex.com:
+  source: Yandex.Direct
+  medium: paid
+  query: []
+yabs.yandex.by:
+  source: Yandex.Direct
+  medium: paid
+  query: []
+market.yandex.ru:
+  source: Yandex.Market
+  medium: paid
+  query: []
+m.market.yandex.ru:
+  source: Yandex.Market
+  medium: paid
+  query: []
+yieldmo.com:
+  source: Yieldmo
+  medium: paid
+  query: []
+zedo.com:
+  source: ZEDO
+  medium: paid
+  query: []
+z1.zedo.com:
+  source: ZEDO
+  medium: paid
+  query: []
